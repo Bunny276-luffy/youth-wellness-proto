@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "youth-wellness-proto",
+  "private_key_id": "30dabf8e9420a5a27401c1bc529ac78e20177565",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBysz4Q4K6uFEy\nUzuDoQLQ6GAWm8I8vwWEkOp5cxm1UBHTuPnJ9DY+sEwDgTtGX8qPdYv9lc3EmBkO\n4hDLQXVdYxAa8Bo/+lIzfUV5GPND7K2OL9WFXzpmRFzym2sogT2j/lTAGboLzEzT\nxAcp5eyoy2kQIJkocglvth+4GnddY8pllu/OokK56RM8+nVMUZDjhlyBOCui9Xpp\n8zmY8H+7QFa0hljmxNELN9Pr7Ix31uoz2FQjtF6yyhux120yG5wjoqnRvHRVWBp1\nHuNyk8hLJT1y9Q++m6xDaQfXyGKv0TElX6RqX8M9pgPLTDabEias3ZX522BYFWIK\ngax4yB0JAgMBAAECggEAE9rNzj/IdI3uz7ukVNOZwMKWGaripyuhCph4VXIb964Y\n7Xq9qNnK9vhECXXjl024KKOP8K648sPsiVBTDSgLOMKuAzyHS/e/FURn6kTKo7Jr\ng65V74C2sISfi0GuJGu9X4BuuXHJVG0dj/K9EydZ7F9Ox9a3KmQooFfl/wxDH3+s\ntNluq+F7zstZnMrEZ/3VQwU+25JmZ4Amxq0JvJW2oUkaCs1kAbFYHYMMOGq/IcjI\nrjvKpX83ZZfjycvtPk/nl4imycbCYgi95zIJ5h9VazxdCEVkvX0kU1pudoIA7ION\ns5ucTNSGQW6qE9azsrhaeB5lGfWNCN8Jbz1rzE2MiQKBgQDkSISTxAc+jUOXlRdn\ntFje/cVqvf+5ID+J/ZytCU54ZeOwEjROpfaqo2PexxG2WCZRNM7u/HZJMMJACUFL\nC58a3ll9hnmRgxJmTI+fqt6rgCNaJ7WzLyP2M2+KTv9c49esbccehXxJUw43N8HF\nZa4G+ABwEX+2PMJxwJGLefc9pQKBgQDZUjvXHubmWVMYaEIrx6iU44rFd3QT9fb9\nywg9nZbPsBzyvPRQQAeEwUQxZ3aGHUDBS5ObqcEqscXsQWh5t7kv1bzWHKZe8yuv\nUZre5DK37UW0X8zss7E2grTQBe/C/6MKGKxByJE79mpLeuaEJCzQcVP61JCLzJcT\n9vE2y4+MlQKBgQCaAYZXfdb5Tyn7eFyq3NNb1M47feSoSuYyvMLXRcEHno1lulJJ\ngNORONtmbtw3LO7kuACm3/EY3Wke9F91NmjnInwzH+ah0VA3bY0zRX4lKzQuXT3K\nnZHgRcEJCNRkIV3d+M1tfNZlTT/45oe2GSu3jdYVxOho1ELFpQlLlEPE9QKBgQDT\nyx7ikg05pQgkm0cR361eHTvbIoWQBoBF6x8G3ZRiqCIuNxRrOVuad7f75fdO0SeQ\nuhUK+a916ncXvs8RAIqMIeO9T4KcuqRyYjdqzj7XnXf3R/4xGRa2J0AMFB0Mj5LX\nfiAypENWitog4Y/SbGb4ZdoQdCTC+gqqvFlsq4ok2QKBgAig+oszb0mLBleuSAw4\nGlnwmDtooT9bGpnTcAYaY1gJr5Uxw3XyEo7SImsAwY24QMWXAWWwnU3QoUj2v+FN\nexOzoirMzWIKdSMCLKcmyq5MTaKWJqnTPvWRW5ErtiOn5qa5Jg0nHqQhr++nT6wQ\nQmOXcxlrpjZny1UYRmSe7LrA\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-sa@youth-wellness-proto.iam.gserviceaccount.com",
+  "client_id": "103889263431045674968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-sa%40youth-wellness-proto.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
